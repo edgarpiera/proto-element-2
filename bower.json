@@ -1,0 +1,23 @@
+{
+  "name": "proto-element-2",
+  "version": "0.0.1",
+  "authors": [
+    "Edgar Piera <edgar.piera@neogrup.com>"
+  ],
+  "main": "proto-element-2.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "polymer",
+    "component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
